@@ -21,7 +21,7 @@ yaml_version: 4
 #
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
-  author:       "Franco Bartesaghi"      # Your name
+  author:       "Franco Bartesaghi Bonessi"      # Your name
   title:        "Remembering Addition"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
   description:  "Ads 1-4 with 5-8 as two 4 digit numbers, and returns as 1-5. Additionaly, reseting saves the current value, and 6 returns whether the current addition is equal to the saved one or not"      # Short description of what your project does
